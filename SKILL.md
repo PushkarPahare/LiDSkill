@@ -126,6 +126,29 @@ User says: "practice topic 5", "I want to learn and then quiz NS-Zeit"
 2. Then immediately start a 10-question quiz on that category
 3. For wrong answers, quote the relevant sentence from the study guide
 
+## Vocabulary Resources
+
+| Resource | File | Content |
+|----------|------|---------|
+| Concept vocabulary | `references/00_Vokabeln.md` | Key terms per category with English translations and test traps |
+| 65 test verbs | `references/Wortgewalt_65_Verben.md` | All verbs from the test in a narrative walkthrough |
+
+### Vocab Mode
+
+User says: "practice vocabulary", "Vokabeln üben", "vocab for topic 2"
+
+1. If a category is specified, read `references/00_Vokabeln.md` and show only that section
+2. If no category, ask which one or show all
+3. Offer to drill: show the German term, ask user for the meaning, then reveal
+
+### Verb Mode
+
+User says: "practice verbs", "Verben üben", "show me the 65 verbs"
+
+1. Read `references/Wortgewalt_65_Verben.md`
+2. Present the narrative or drill individual verbs
+3. For drilling: give a German verb, ask user for meaning, then reveal with example sentence from the article
+
 ## Rules
 
 - Questions and options are always in German

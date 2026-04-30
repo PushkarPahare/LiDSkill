@@ -28,6 +28,10 @@ In any Kiro CLI session, just say:
 | "Practice test" | Simulated exam: 33 questions, pass at 15 |
 | "Practice topic 5" | Study NS-Geschichte, then quiz on it |
 
+| "Practice vocabulary" | Drill key terms with English meanings |
+| "Practice verbs" | Walk through the 65 test verbs |
+| "Vocab for topic 1" | Vocabulary for Staat & Verfassung only |
+
 ## Topics
 
 | # | Topic | Questions |
